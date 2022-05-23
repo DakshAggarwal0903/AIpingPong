@@ -1,0 +1,31 @@
+div button{
+    float:right;
+    border:1px solid white;
+}
+.headderr{
+    width: 100%;
+    text-align: left;
+    padding:20px
+}
+.headderr h3{
+    display:inline;
+}
+.imag{
+    width: 100%;
+}
+.ee{
+    display: inline-block;
+    width: 45%;
+}
+.modal-dialog{
+    width: 90%;
+}
+#stastus,#playgame{
+font-size: 22px;
+}
+h4{
+    background-color: black;
+    line-height: 2;
+    margin: 0px;
+    color: azure;
+}
