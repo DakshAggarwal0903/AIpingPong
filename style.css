@@ -23,9 +23,11 @@ div button{
 #stastus,#playgame{
 font-size: 22px;
 }
-h4{
+.aeaeea{
     background-color: black;
     line-height: 2;
     margin: 0px;
     color: azure;
+    width: 100%;
+    
 }
